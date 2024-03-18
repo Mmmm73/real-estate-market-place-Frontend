@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -36,3 +37,323 @@
     transform: rotate(360deg);
   }
 }
+
+.bg-teal{
+  background-color: #1EA1A1;
+  color: white;
+}
+
+#logo-nav-bar{
+  color: white;
+}
+Nav .link{
+  color: white;
+  padding-right: 20px;
+}
+
+#rowone{
+  margin-top: 5%;
+}
+
+#row1-col-2{
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+
+}
+
+#signin-title{
+  margin-top: 50px;
+  color: teal;
+}
+
+#signin-signup-link{
+  color: teal;
+}
+
+#nav-link-dropdown{
+  background-color: white;
+  
+}
+
+#nav-link-dropdown-1{
+  color: teal;
+  background-color: white;
+
+}
+
+#basic-nav-dropdown{
+  color: #fff;
+}
+
+.menu {
+  font-size: 18px;
+  display: grid;
+  grid-template-columns: 60% 7.5% 7.5% 7.5% 7.5%;
+}
+
+.menu div {
+  padding: 5px 14px;
+  
+}
+
+.link{
+  text-decoration: none;
+}
+
+
+
+#home-columns {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+#home-title{
+  margin-top: 30%;
+  margin-left: 20%;
+  font-size: 50px;
+  color: teal;
+}
+
+#home-form{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 120px;
+  height: 100%;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+}
+
+#home-form-title{
+  color: teal;
+}
+
+#home-details{
+  color: teal;
+  margin-left: 9%;
+  font-size: 18px;
+}
+
+
+/*label{
+  margin-right: 85%;
+}*/
+
+.create-listing-label{
+  margin-right: 78%;
+}
+
+#signin-button{
+
+  color: #fff;
+  background-color: teal;
+}
+
+#hone-message{
+  margin-top: 5%;
+}
+
+.footer{ 
+  margin-top: 15%;
+  padding: 20px;
+  background-color: teal;
+  color: #fff; 
+  
+
+}
+
+
+#link1{
+  margin-top: 7px;
+}
+
+#link2{
+  margin-top: 7px;
+}
+
+
+.create-listing-label-two{
+  margin-right: 75%;
+}
+
+#select-photos-button{
+  margin-right: 40%;
+}
+
+#remove-image{
+  background-color: teal;
+  margin-left: 20px;
+}
+
+#create-listing-title{
+  color: teal;
+}
+
+#home-submit-button{
+  background-color: teal;  
+}
+
+.Footer{
+
+  background-color: teal;  
+  margin-top: 15%;
+  height: 50px;
+  left: 0;
+  width: 100%;
+}
+
+#add-listing-button{
+  background-color: teal;
+}
+
+#my-listing-title{
+  color: teal;
+}
+
+.table-tr{
+  height: 75px;
+}
+
+#my-listing-table{
+  margin-top: 5%;
+}
+
+#breadcrumb-mylisting{
+  color: teal;
+}
+
+#mylist-delete-Button{
+  background-color: teal;
+}
+
+#mylist-edit-Button{
+  background-color: teal;
+}
+
+
+
+#each-listing-title{
+  text-align: left;
+  color: teal;
+}
+
+.each-listing-attribute{
+  text-align: left;
+}
+
+.eachlisting-row-2{
+  margin-top: 20%;
+}
+
+#title-home-row-one{
+  color: white;
+  margin-top: 8%;
+}
+
+#home-row-one{
+  background-color: #1EA1A1;
+  height: 150px;
+  border-radius: 15px;
+}
+
+#home-btn-one{
+  background-color: white;
+  color: teal;
+  border: none;
+}
+
+#property-btn-one{
+  background-color: teal;
+  color: white;
+}
+
+#div-home-btn-one{
+  text-align: left;
+}
+
+#home-btn-one{
+  width: 150px;
+}
+
+#home-row-main-one{
+  background-image: url("krystal-black-V5OEpF12pzw-unsplash.jpg");
+  height: 500px;
+  background-position: center;
+  background-size: 1550px;
+  
+}
+
+#home-row-main-two{
+  margin-top: 5%;
+}
+
+.card{
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+#home-row-main-two-title-one{
+  color: #1EA1A1;
+}
+
+.card-title{
+  color: #1EA1A1;
+}
+
+#property-title{
+  color: #1EA1A1;
+  text-align: center;
+}
+
+#properties-row-two{
+  margin-top: 0%;
+}
+#properties-image-one{
+  width:250px;
+  height: auto;  
+
+}
+
+#properties-table-entry{
+  text-align: left;
+}
+
+#properties-heading{
+  font-size: 18px;
+}
+#properties-price{
+  font-size: 18px;
+}
+
+#properties-title-no-results{
+  text-align: center;
+  margin-left: 100px;
+}
+
+#col-3-row-1{
+  margin-top: 27%;
+}
+
+#bookmark-button{
+  background-color: #1EA1A1;
+  width: 200px;
+}
+
+#property-whatsapp-iage{
+  width: 200px;
+  height: auto;  
+}
+
+#bookmark-btn-one{
+  background-color: #1EA1A1;
+  border: none;
+}
+
+
+
+
+@media only screen and (min-width: 930px) {
+
+    #logout-link{
+      padding-left: 10px;
+      margin-top: 8px;
+    }
+  }
+
